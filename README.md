@@ -30,7 +30,7 @@ Data Visualization, EDA , Model Building and Deployment etc..
 	
 4. **Clustering**
 	* K-Means Clustering
-  * DBSCAN 
+        * DBSCAN 
 	* Hierarchical Clustering
 	
 5. **Association Rule Learning**
